@@ -1,5 +1,5 @@
 # 5G-bulkRNAseq-analysis-pipeline
-Integrated pipeline for 5G bulk RNA-seq data QC, Clustering, Enrichment Analysis, and Visualization for BRIVET (Bulk RNA-seq Interactive Visualization and Exploration Tool)
+Integrated pipeline to prepare raw Bulk RNA-seq data for display in BRACE (Bulk RNA-seq Analysis and Cluster Explorer)
 
 Author: Vrishabhadev Sathish Kumar
 
